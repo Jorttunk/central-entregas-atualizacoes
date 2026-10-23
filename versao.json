@@ -1,0 +1,7 @@
+{
+  "versionCode": 123,
+  "versionName": "1.23",
+  "notas": "Mapa: cidade pelo CEP e conferência do local (sem pinos em outra cidade)",
+  "apkUrl": "https://raw.githubusercontent.com/Jorttunk/central-entregas-atualizacoes/main/CentralEntregas.apk?v=123",
+  "sha256": "6be227365f06ab879709df294cb5c01300d04bf2750a8332fc682085a1636cff"
+}
