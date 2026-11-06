@@ -1,0 +1,7 @@
+{
+  "versionCode": 145,
+  "versionName": "1.45",
+  "notas": "Lista da Jadlog: CEP quebrado em duas linhas não se perde mais; mapa entende número com letra e grafias diferentes da rua",
+  "apkUrl": "https://raw.githubusercontent.com/Jorttunk/central-entregas-atualizacoes/main/CentralEntregas.apk?v=145",
+  "sha256": "449b2f86827ba660ef99ec3d77d7b186f67c83e5c6c62d2dc1174294eada2f1c"
+}
